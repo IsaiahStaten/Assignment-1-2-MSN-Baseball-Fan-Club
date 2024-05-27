@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--MSN Baseball Fan Club Blog Entries
+Filename: membership.xml
+Author: Isaiah Staten
+Date: 5/26/2024
+-->
+<membership>
+ <title>MSN Baseball Fan Club</title>
+ <subtitle>Blog Entries for Members</subtitle>
+  <*member>
+   <membername>
+    <firstname>
+    <lastname>
+   <joinedData>
+   <?favoritePlayer>
+   <+blogEntry>
+     <datePosted>
+     <comments>
+      <![CDATA[
+
+      ]]>
+<membership xmlns="http://example.com/msnmembball/membership">
